@@ -121,3 +121,21 @@ Host: Dr. Andrew Huberman
 	- **Actionable Strategy:** 
 		- Use alternative techniques, such as verbal cues or guided practices, to reinforce learning without relying solely on visualization.
 
+## Steps for Mental Training & Visualization:
+
+- **Focused Learning with Rest**: Engage deeply in learning sessions, then rest or sleep to consolidate.
+- **Prioritize Sleep**: Create a consistent sleep schedule to enhance neuroplasticity and learning retention.
+- **Structured Learning**: Use the Pomodoro technique (25 minutes of focus, 5-minute breaks) to maintain attention.
+- **Simple Visualizations**: Keep visualizations short (15-20 seconds) and repeat them daily for 5-10 minutes.
+- **Combine Mental and Physical Training**: Alternate between mental visualization and physical practice to reinforce skills.
+- **Use Cognitive Labels**: Assign specific labels to tasks or skills to improve organization and recall.
+- **Engage Multiple Senses**: Visualize with auditory and physical cues to mirror real-world experiences.
+- **Incorporate Eye Movements**: Move your eyes as you visualize tasks to activate relevant neural circuits.
+- **Set Repetition Goals**: Practice skills with 50-75 repetitions per session, using intervals of 15 seconds practice, 15 seconds rest.
+- **Balanced Routine**: Schedule regular sessions of both real-world practice and mental visualization.
+- **Frequent Training**: Engage in mental training 3-5 times per week to optimize skill retention.
+- **First-Person Visualization**: Visualize from your own perspective to improve personal engagement in the skill.
+- **Experiment with Eyes Open/Closed**: Try visualizing with eyes open, using videos or live scenarios for better engagement.
+- **Mimic Exact Movements**:Tailor mental exercises to the precise movements of the skill you’re developing.
+- **Go/No-Go Drills**: Include drills that focus on performing correct actions and avoiding mistakes to enhance motor skill execution.
+- **Adapt for Aphantasia**: If visualization is challenging, use verbal cues or physical practice for skill improvement.

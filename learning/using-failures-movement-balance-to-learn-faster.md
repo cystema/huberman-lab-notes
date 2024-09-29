@@ -75,3 +75,17 @@ Host: Dr. Andrew Huberman
 		- Don’t quit when frustration sets in. It is a signal that your brain is engaging in plasticity and adapting to the challenge.
 	- Actionable Strategy:
 		- Set a time limit for how long you’ll continue a task after frustration hits (e.g., an extra 10 minutes). Use this frustration as fuel to push through and deepen the learning process.
+
+
+##  Actionable Steps for Faster Learning
+
+- **Engage in Novelty**: Challenge your skill set by practicing new and difficult activities.
+- **Embrace Mistakes**: Deliberately put yourself in situations where you can make errors to promote learning.
+- **Focus on Incremental Learning**: Break study sessions into short increments (7-30 minutes) for better retention.
+- **Introduce New Behaviors**: Try new tasks, like writing with your non-dominant hand, to engage different brain pathways.
+- **Reframe Mistakes Positively**: Reflect on mistakes after each session and celebrate them as progress.
+- **Find Optimal Learning States**: Identify your best learning times and use breathing techniques to enhance focus.
+- **Create High Stakes for Learning**: Set deadlines and rewards to instill urgency in your learning tasks.
+- **Incorporate Balance Exercises**: Engage in activities that challenge your balance before cognitive tasks.
+- **Use Short, Frequent Sessions**: Implement the Pomodoro Technique: study for 25 minutes followed by a 5-minute break.
+- **Manage Frustration**: Set a time limit to persist through frustration, using it as motivation to deepen learning.

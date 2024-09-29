@@ -12,7 +12,8 @@ Neuroplasticity is the brain’s remarkable ability to change throughout life, a
 	- Insight:
 		- Neuroplasticity is most potent during childhood, but adults can still experience significant brain changes with conscious effort and specific practices. For adults, neuroplasticity is tied to focused learning and creating the right conditions for the brain to adapt.
 	- Practical Tip:
-		- After the age of 25, brain changes require deliberate and focused efforts. You can’t rely on passive experiences to change your brain. Instead, create intentional learning environments and engage in activities that stretch your mental capacity. For example, learning a new skill or language requires active engagement over time.
+		- After the age of 25, brain changes require deliberate and focused efforts. You can’t rely on passive experiences to change your brain. 
+		- Instead, create intentional learning environments and engage in activities that stretch your mental capacity. For example, learning a new skill or language requires active engagement over time.
 	- Actionable Strategy:
 		- Engage in challenging learning tasks like solving complex problems, learning new software, or acquiring a musical instrument.
 		- Set specific goals that require sustained mental focus.
@@ -86,7 +87,7 @@ Neuroplasticity is the brain’s remarkable ability to change throughout life, a
 
   
 
-### Summary of Actionable Steps
+## Summary of Actionable Steps
 Here’s a brief recap of what you can apply to change your brain through focus:
 
 1. Deliberate Focus: Engage in single-task, deep-focus practices like Pomodoro to enhance learning.
