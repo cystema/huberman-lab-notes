@@ -1,19 +1,8 @@
-# Huberman Lab Podcast: "Using Failures, Movement & Balance to Learn Faster" - Episode #7 Transcript Summary
+# Huberman Lab Podcast: "Using Failures, Movement & Balance to Learn Faster"
 
 ---
-Podcast Title: Huberman Lab Podcast #7
 Episode Title: Using Failures, Movement & Balance to Learn Faster
 Host: Dr. Andrew Huberman
----
-# Huberman Lab Podcast: "Using Failures, Movement & Balance to Learn Faster" - Episode #7 Transcript Summary
----
-
-Podcast Title: Huberman Lab Podcast #7
-
-Episode Title: Using Failures, Movement & Balance to Learn Faster
-
-Host: Dr. Andrew Huberman
-
 ---
 
 1. Neuroplasticity & Learning

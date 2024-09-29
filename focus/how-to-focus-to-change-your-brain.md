@@ -1,8 +1,8 @@
 # Key Insights and Practical Tips from Huberman Lab: “How to Focus to Change Your Brain”
 
 ---
-Podcast Title: Huberman Lab Podcast #6
 Episode Title: How to Focus to Change Your Brain
+Host: Dr. Andrew Huberman
 ---
 
 Neuroplasticity is the brain’s remarkable ability to change throughout life, and understanding how to focus and leverage this process is crucial for enhancing learning and personal growth. Below are key insights and practical tips you can apply to harness the power of focus and neuroplasticity.
