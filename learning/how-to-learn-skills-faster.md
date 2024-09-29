@@ -1,7 +1,7 @@
 # Huberman Lab Podcast: "How to Learn Skills Faster" 
 ---
 
-Episode Title: #How to Learn Skills Faster
+Episode Title: How to Learn Skills Faster
 Host: Dr. Andrew Huberman
 
 ---
