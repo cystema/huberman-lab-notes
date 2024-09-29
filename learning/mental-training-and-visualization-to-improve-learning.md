@@ -1,4 +1,4 @@
-# Huberman Lab Podcast: "How to Learn Skills Faster"
+# Huberman Lab Podcast: "Science-Based Mental Training & Visualization for Improved Learning"
 
 ---
 
